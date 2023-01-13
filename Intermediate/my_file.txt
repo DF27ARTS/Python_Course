@@ -1,0 +1,5 @@
+Mi nombre es Tom 
+Mi apellido es Hollad 
+Tengo 25 años 
+Y mi lenguaje preferido es Python
+Auque tambien me gusta Typescript
